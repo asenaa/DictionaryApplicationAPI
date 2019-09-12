@@ -1,0 +1,14 @@
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\bin\Release\netcoreapp2.2\DictionaryApplication.deps.json
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\bin\Release\netcoreapp2.2\DictionaryApplication.runtimeconfig.json
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\bin\Release\netcoreapp2.2\DictionaryApplication.runtimeconfig.dev.json
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\bin\Release\netcoreapp2.2\DictionaryApplication.dll
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\bin\Release\netcoreapp2.2\DictionaryApplication.pdb
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.csprojAssemblyReference.cache
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.csproj.CoreCompileInputs.cache
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.RazorAssemblyInfo.cache
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.RazorAssemblyInfo.cs
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.AssemblyInfoInputs.cache
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.AssemblyInfo.cs
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.RazorTargetAssemblyInfo.cache
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.dll
+C:\Users\asena\Desktop\DictionaryApplication\DictionaryApplication\obj\Release\netcoreapp2.2\DictionaryApplication.pdb
