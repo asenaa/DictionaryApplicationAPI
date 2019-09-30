@@ -22,7 +22,7 @@ namespace DictionaryApplication.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server =dictionaryapplication.database.windows.net; Initial Catalog =words; User ID = asena; Password = 699148AaAa;"); ;
+                optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Integrated Security=true;"); 
             }
         }
 
