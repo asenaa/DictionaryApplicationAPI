@@ -22,7 +22,7 @@ namespace DictionaryApplication.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@""); 
+                optionsBuilder.UseSqlServer(@"Server=(localdb)\\mssqllocaldb"); 
             }
         }
 
